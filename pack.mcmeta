@@ -6,7 +6,7 @@
       "max_inclusive": 20
     },
     "description": {
-      "text": "§bLight level indicator.§r\n§6100% vanilla, no mod required.§r\n§oDisabled smooth lighting§r"
+      "text": "§bLight level indicator.§r\n§6100% vanilla, no mod required.§r\n§oDisable smooth lighting for best results§r"
     }
   }
 }
